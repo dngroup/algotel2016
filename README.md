@@ -3,7 +3,6 @@
 ./offline is the service mapping algo/simulation
 ./sdn is the online management using mininet/sdn
 
-
 # dependencies
 
 ```
